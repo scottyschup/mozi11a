@@ -8,7 +8,7 @@ Lauren: Hahahaha
 
 Fake entry ideas
 ================
-CSS selectors: Kissing Cousins
-CSS functions: vertical-center()
-HTML elements: <rl> (random-order list)
+* CSS selectors: Kissing Cousins
+* CSS functions: vertical-center()
+* HTML elements: <rl> (random-order list)
 
