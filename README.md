@@ -8,6 +8,6 @@ Fake entry ideas
 ================
 * CSS selectors: Kissing Cousins
 * CSS functions: vertical-center()
-* HTML elements: <rl> (random-order list)
+* HTML elements: \<rl\> (random-order list)
 
 More to come...
